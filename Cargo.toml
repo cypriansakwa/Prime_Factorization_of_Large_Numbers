@@ -1,0 +1,9 @@
+[package]
+name = "Prime_Factorization_of_Large_Numbers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4.5"
+primal = "0.3.3"
+num-traits = "0.2.19"
